@@ -249,5 +249,4 @@ Now that we have assigned permissions to the student user, we can successfully l
 NAME                     READY   STATUS    RESTARTS   AGE
 nginx-565785f75c-kl25r   1/1     Running   0          7m41s
 
-Annotate
 
